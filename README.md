@@ -10,6 +10,7 @@ Technical case studies in foodservice forecasting, pricing, churn, and applied A
 - **AI Restaurant Operations Partner** (`AI_Restaurant_Ops_Partner_Case_Study.pdf`) — a restaurant analytics platform that turns point-of-sale and invoice data into operating decisions.
 - **Customer Churn Survival Model** (`Churn_Case_Study.pdf`) — a Gradient-Boosted Cox proportional-hazards model that predicts when a foodservice customer will stop ordering, with explainable risk factors.
 - **Nutrition RAG** (`Nutrition_RAG_Report.pdf`) — a retrieval system over public USDA foodservice data with a fine-tuned product-name normalizer, benchmarked on 100 queries.
+- **Building a GPT From Scratch** (`GPT_From_Scratch_Case_Study.pdf`) — a character-level transformer implemented from first principles in PyTorch and trained on a cloud GPU, documenting how language models work end to end, with honest limitations.
 
 ## Contact
 
